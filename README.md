@@ -1,2 +1,2 @@
 # Information-Retrieval-System
-GenAI Project - Python, Langchain, Google Gemini, VectorDB(FAISS), Streamlit
+GenAI Project - Python, Langchain, Palm2, VectorDB, Streamlit
