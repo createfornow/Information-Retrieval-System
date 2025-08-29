@@ -1,3 +1,6 @@
+<img width="1100" height="500" alt="image" src="https://github.com/user-attachments/assets/3e4a119d-b4bf-4cfe-a564-e351e937eba1" />
+
+
 # Information-Retrieval-System - Multiple PDFs
 GenAI Project - Python, Langchain, Google Gemini, VectorDB, Streamlit
 
@@ -16,7 +19,7 @@ pip install -r requirements.txt
 GOOGLE_API_KEY= "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 
 ## Finally run the following command
-streamlit run app.py
+streamlit run app.py or python -m streamlit run app.py
 
 Now - open up : http://localhost:8501
 ## Techstack Used:
